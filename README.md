@@ -1,7 +1,7 @@
 <div align="center">
   
 # About Me
-Hi, I’m **Iksha Malhotra** – a curious CSE undergrad who codes by day and drinks 4 cups of chai to survive it.  
+Hi, I’m **Iksha Malhotra** – a curious CSE undergrad who codes everyday and drinks 4 cups of chai to survive it.  
 CSE Student | Tech Enthusiast | Designer and Developer | AI Explorer  
 10 CGPA Holder – yes, I love my sems as much as my CSS!
 
