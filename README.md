@@ -2,7 +2,7 @@
   
 # About Me
 Hi, I’m **Iksha Malhotra** – a curious CSE undergrad who codes everyday and drinks 4 cups of chai to survive it.  
-CSE Student | Tech Enthusiast | Designer and Developer | AI Explorer  
+Tech Enthusiast | Designer and Developer | AI Explorer  
 10 CGPA Holder – yes, I love my sems as much as my CSS!
 
 > Always up for a good design sprint, a late-night hackathon, a new project, or a dance-event! ;)  
